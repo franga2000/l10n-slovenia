@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Updated 14.08.2023
+-->
+<odoo>
+    <record id="res_bank_BSLJSI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">BSLJSI2XXXX</field>
+        <field name="name">BANKA SLOVENIJE</field>
+        <field name="zip">1505</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">SLOVENSKA 35</field>
+    </record>
+    <record id="res_bank_BSLJSI2XFNB" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">BSLJSI2XFNB</field>
+        <field name="name">BANKA SLOVENIJE</field>
+        <field name="zip">1505</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">SLOVENSKA 35</field>
+    </record>
+    <record id="res_bank_LJBASI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">LJBASI2XXXX</field>
+        <field name="name">NLB D.D.</field>
+        <field name="zip">1520</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">TRG REPUBLIKE 2</field>
+    </record>
+    <record id="res_bank_SKBASI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">SKBASI2XXXX</field>
+        <field name="name">SKB BANKA D.D. POSLOVALNICA LJUBLJANA CENTER </field>
+        <field name="zip">1513</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">AJDOVŠČINA 4</field>
+    </record>
+    <record id="res_bank_KBMASI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">KBMASI2XXXX</field>
+        <field name="name">NOVA KBM D.D.</field>
+        <field name="zip">2000</field>
+        <field name="city">MARIBOR</field>
+        <field name="street">VITA KRAIGHERJA 4</field>
+    </record>
+    <record id="res_bank_GORESI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">GORESI2XXXX</field>
+        <field name="name">GORENJSKA BANKA D.D., KRANJ</field>
+        <field name="zip">4000</field>
+        <field name="city">KRANJ</field>
+        <field name="street">BLEIWEISOVA CESTA 1</field>
+    </record>
+    <record id="res_bank_BAKOSI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">BAKOSI2XXXX</field>
+        <field name="name">BANKA INTESA SANPAOLO D.D.</field>
+        <field name="zip">6502</field>
+        <field name="city">KOPER</field>
+        <field name="street">PRISTANIŠKA 14</field>
+    </record>
+    <record id="res_bank_SZKBSI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">SZKBSI2XXXX</field>
+        <field name="name">DBS D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">KOLODVORSKA ULICA 9</field>
+    </record>
+    <record id="res_bank_BACXSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">BACXSI22XXX</field>
+        <field name="name">UNICREDIT BANKA SLOVENIJA D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">ŠMARTINSKA CESTA 140</field>
+    </record>
+    <record id="res_bank_SABRSI2XXXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">SABRSI2XXXX</field>
+        <field name="name">N BANKA D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">DUNAJSKA CESTA 128 A</field>
+    </record>
+    <record id="res_bank_HAABSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">HAABSI22XXX</field>
+        <field name="name">ADDIKO BANK D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">DUNAJSKA 117</field>
+    </record>
+    <record id="res_bank_KSPKSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">KSPKSI22XXX</field>
+        <field name="name">BANKA SPARKASSE D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">CESTA V KLEČE 15</field>
+    </record>
+    <record id="res_bank_BFKKSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">BFKKSI22XXX</field>
+        <field name="name">BKS BANK AG, BANČNA PODRUŽNICA</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">VEROVŠKOVA ULICA 55A</field>
+    </record>
+    <record id="res_bank_SIDRSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">SIDRSI22XXX</field>
+        <field name="name">SID BANKA D.D.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">ULICA JOSIPINE TURNOGRAJSKE 6</field>
+    </record>
+    <record id="res_bank_HLONSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">HLONSI22XXX</field>
+        <field name="name">HRANILNICA LON D.D.</field>
+        <field name="zip">4000</field>
+        <field name="city">KRANJ</field>
+        <field name="street">ŽANOVA ULICA 3</field>
+    </record>
+    <record id="res_bank_HDELSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">HDELSI22XXX</field>
+        <field name="name">DELAVSKA HRANILNICA D.D. LJUBLJANA</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">MIKLOŠIČEVA CESTA 5</field>
+    </record>
+    <record id="res_bank_HKVISI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">HKVISI22XXX</field>
+        <field name="name">PRIMORSKA HRANILNICA VIPAVA D.D.</field>
+        <field name="zip">5271</field>
+        <field name="city">VIPAVA</field>
+        <field name="street">GLAVNI TRG 15</field>
+    </record>
+    <record id="res_bank_KDDSSI22XXX" model="res.bank">
+        <field name="country" ref="base.si" />
+        <field name="bic">KDDSSI22XXX</field>
+        <field name="name">KDD-CENTRALNA KLIRINŠKO DEPOTNA DRUŽBA, D.O.O.</field>
+        <field name="zip">1000</field>
+        <field name="city">LJUBLJANA</field>
+        <field name="street">TIVOLSKA CESTA 48</field>
+    </record>
+</odoo>
